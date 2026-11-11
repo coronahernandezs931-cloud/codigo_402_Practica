@@ -1,0 +1,26 @@
+{
+  "name": "codigo_402_practica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cuentas": "node --env-file-if-exists=.env crear-cuentas.js",
+    "usdc": "node --env-file=.env conseguir-usdc.js",
+    "pagar": "node --env-file=.env primer-pago.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coronahernandezs931-cloud/codigo_402_Practica.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/coronahernandezs931-cloud/codigo_402_Practica/issues"
+  },
+  "homepage": "https://github.com/coronahernandezs931-cloud/codigo_402_Practica#readme",
+  "dependencies": {
+    "@stellar/stellar-sdk": "^17.4.0"
+  }
+}
