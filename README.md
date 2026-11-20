@@ -11,3 +11,6 @@
 - Pago del agente a mi API: 762bf4dc528fdfa4d1115b1408aa5f55b10d4f3f17a95dad1abeb8782afd4865
 - Verlo: https://stellar.expert/explorer/testnet/tx/762bf4dc528fdfa4d1115b1408aa5f55b10d4f3f17a95dad1abeb8782afd4865
 
+## Mi verificador
+- Pago que verifiqué con RPC: 9591064bc0ad15516b39e2e7360a37b9a453fe5a61f0755f8cdeca58b50a353e
+
